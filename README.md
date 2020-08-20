@@ -1,0 +1,2 @@
+# TravellingBehaviorPrediction
+In this project, i tried to predict people's travelling behavior by some features. It was a part of my projects for BIOS Hackathon 2019 (by Universitas Multimedia Nusantara, Indonesia: https://www.umn.ac.id/bios-hackathon-2019-buat-prototype-aplikasi-selama-24-jam/) and Jakbee Hackathon 2019 (by DKI Jakarta Governance and BAZNAS DKI Jakarta, Indonesia: https://republika.co.id/berita/q24lo69117000/baznas-gelar-puncak-jakbee-hackathon-dan-masa-depan-jakarta). 
